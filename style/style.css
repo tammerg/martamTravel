@@ -1,5 +1,6 @@
 .firstLink {
   display: inline-block;
+<<<<<<< HEAD
 };
 
 .p {
@@ -9,4 +10,9 @@
 
 .footer, .push {
 clear: both;
+=======
+}
+.strongOne{
+  text-align: center;
+>>>>>>> 9afe49be058887556fc256f311457c0e6072ccf4
 }
