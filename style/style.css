@@ -5,9 +5,14 @@
   color: gray;
   font-style: italic;
 };
-.footer, .push {
+.push {
 clear: both;
+}
+.headerCenter{
+  text-align: center;
 }
 .footer{
   text-align: center;
+  position: fixed;
+  bottom: 0;
 }
