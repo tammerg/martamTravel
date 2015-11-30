@@ -19,3 +19,10 @@ clear: both;
   position: fixed;
   bottom: 0;
 }
+.crslSize{
+  position: relative;
+  top: 5px;
+}
+.domestic, .international{
+  text-align: center;
+}
