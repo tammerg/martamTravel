@@ -11,18 +11,24 @@
 .push {
 clear: both;
 }
-.headerCenter{
+.headerCenter {
   text-align: center;
 }
-.footer{
+.footer {
   text-align: center;
   position: fixed;
   bottom: 0;
 }
-.crslSize{
+.crslSize {
   position: relative;
   top: 5px;
 }
-.domestic, .international{
+.domestic, .international {
   text-align: center;
+}
+.panelDom1 {
+  position: center;
+}
+#leftNav {
+  top: 0;
 }
